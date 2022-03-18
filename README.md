@@ -5,7 +5,7 @@ Home: https://github.com/rstudio/rsconnect-jupyter/
 
 Package license: GPL-2.0-only
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/rsconnect-jupyter-feedstock/blob/master/LICENSE.txt)
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/rsconnect-jupyter-feedstock/blob/main/LICENSE.txt)
 
 Summary: Jupyter Notebook integration with RStudio Connect
 
@@ -15,8 +15,8 @@ Current build status
 
 <table><tr><td>All platforms:</td>
     <td>
-      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=13825&branchName=master">
-        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/rsconnect-jupyter-feedstock?branchName=master">
+      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=13825&branchName=main">
+        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/rsconnect-jupyter-feedstock?branchName=main">
       </a>
     </td>
   </tr>
