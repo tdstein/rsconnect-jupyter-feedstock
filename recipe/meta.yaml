@@ -1,13 +1,13 @@
 {% set name = "rsconnect-jupyter" %}
-{% set version = "1.6.0" %}
+{% set version = "1.7.0" %}
 
 package:
   name: {{ name|lower }}
   version: {{ version }}
 
 source:
-  url: https://github.com/rstudio/{{ name }}/archive/refs/tags/{{ version }}.tar.gz
-  sha256: de4ba3c2b8f1d6f2ab06eee7555b6145ba0765fd4b6a8eca4b952088a775fa69
+  url: https://github.com/rstudio/{{ name }}/archive/refs/tags/v{{ version }}.tar.gz
+  sha256: 689ec6dcfe1c4439979ce5e275cecd2b8aa5bc0b72e21e2a25b89ccccffcc717
 
 build:
   noarch: python
@@ -42,4 +42,4 @@ about:
 extra:
   recipe-maintainers:
     - bcwu
-    - scottmmjackson
+    - tdstein
