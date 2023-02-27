@@ -1,11 +1,11 @@
-About rsconnect-jupyter
-=======================
+About rsconnect-jupyter-feedstock
+=================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/rsconnect-jupyter-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/rstudio/rsconnect-jupyter/
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/rsconnect-jupyter-feedstock/blob/main/LICENSE.txt)
 
 Summary: Jupyter Notebook integration with RStudio Connect
 
