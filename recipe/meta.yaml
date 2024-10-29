@@ -1,5 +1,5 @@
 {% set name = "rsconnect-jupyter" %}
-{% set version = "1.8.0" %}
+{% set version = "1.8.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/rstudio/{{ name }}/archive/refs/tags/{{ version }}.tar.gz
-  sha256: 11eafa257d4cf3bc725e916b171f41e1533f0600cb126a4f982eda09a173b0bb
+  sha256: 38487e2713996aaa6d1c5000ca359deec961390c2b8bf7149751de867ffad173
 
 build:
   noarch: python
