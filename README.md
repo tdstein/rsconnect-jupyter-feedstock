@@ -1,3 +1,9 @@
+The rsconnect-jupyter package is deprecated
+==========================================
+
+Please use rsconnect-python to publish content to Posit Connect
+===============================================================
+
 About rsconnect-jupyter-feedstock
 =================================
 
@@ -145,4 +151,3 @@ Feedstock Maintainers
 
 * [@mmarchetti](https://github.com/mmarchetti/)
 * [@tdstein](https://github.com/tdstein/)
-
